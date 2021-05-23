@@ -1,0 +1,6 @@
+    var nome = "Breno
+    if (true)
+    var@
+        id = 1
+    var2@
+    id2 = 1
