@@ -1,6 +1,22 @@
-    var nome = "Breno
-    if (true)
-    var@
-        id = 1
-    var2@
-    id2 = 1
+program MeuTeste
+{
+	num meuValor;                      // Linha com tabulacao
+   char minhaString;                  // Linha sem tabulacao
+
+   /*
+   Comentario de varias linhas
+   */
+
+   minhaString = "Um texto qualquer"
+   meuValor = 50;
+
+   if (1 == 2 or 3 == 3){
+      meuResultado = 10;
+   }
+   If (1 == 2 or 3 == 3){
+      meuResultado = 10;
+   }
+   else {
+      meuResultado = 20
+   }
+}

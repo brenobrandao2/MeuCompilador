@@ -73,6 +73,8 @@ class Lexer:
                     estado = 1
                     if (c == '\n'):
                         self.n_line = self.n_line + 1
+                    elif (c == '\t'):
+                        self.n_column = self.n_column + 2
                 elif (c == '='):
                     estado = 2
                 elif (c == '!'):
